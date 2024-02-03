@@ -9,7 +9,7 @@
 .. image:: https://img.shields.io/pypi/v/python-telegram-bot.svg
    :target: https://pypi.org/project/python-telegram-bot/
    :alt: PyPi Package Version
-
+//ok the man middle
 .. image:: https://img.shields.io/pypi/pyversions/python-telegram-bot.svg
    :target: https://pypi.org/project/python-telegram-bot/
    :alt: Supported Python versions
